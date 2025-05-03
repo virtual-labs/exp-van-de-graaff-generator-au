@@ -1,1 +1,1 @@
-## Experiment name
+## Van De Graaff Generator
